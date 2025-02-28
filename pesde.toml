@@ -1,5 +1,5 @@
 name = "glaphyre/t"
-version = "0.1.0"
+version = "1.0.0"
 description = "osyris' runtime type checker"
 authors = ["glaphyre", "osyrisrblx"]
 repository = "https://github.com/glaphyre/t"
